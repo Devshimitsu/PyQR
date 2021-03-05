@@ -46,7 +46,7 @@ python PyQR.py
 :: Workflow ::
 </h3>
 <p align="center">
-<img src=".imgs/wf.gif"/>
+<img src="https://imgur.com/Ff0By5m.png"/>
 </p>
 
 
