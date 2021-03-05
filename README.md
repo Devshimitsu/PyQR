@@ -14,7 +14,7 @@
 
 
 
-### Installation
+### Installation For Linux
 
 - Just, Clone this repository -
 ```
@@ -24,13 +24,22 @@ $ git clone https://github.com/Devshimitsu/PyQR.git
 - Change to cloned directory and run `PyQR.py` -
 ```
 $ cd PyQR
-$ ./requirement.bat OR Download libraries Manually By Typing " pip install pyqrcode && pip install pypng "
-$ python PyQR.py
+$ chmod +x *
+$ ./requirement.sh
+$ python3 PyQR.py
 ```
 
 
+### Installation For windows
 
+- Just, Download this repository -
 
+Double click on requirement.bat
+
+open cmd and type
+```
+python PyQR.py
+```
 
 
 <h3 align="center">
