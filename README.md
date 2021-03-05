@@ -24,6 +24,7 @@ $ git clone https://github.com/Devshimitsu/PyQR.git
 - Change to cloned directory and run `PyQR.py` -
 ```
 $ cd PyQR
+$ ./requirement.bat
 $ python PyQR.py
 ```
 
