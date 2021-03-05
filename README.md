@@ -21,7 +21,7 @@
 $ git clone https://github.com/Devshimitsu/PyQR.git
 ```
 
-- Change to cloned directory and run `PyQR.py` -
+- Change to cloned directory  -
 ```
 $ cd PyQR
 $ chmod +x *
@@ -34,9 +34,9 @@ $ python3 PyQR.py
 
 - Just, Download this repository -
 
-- Double click on requirement.bat
+- Double click on requirement.bat -
 
-- open cmd and type
+- open cmd and type -
 ```
 python PyQR.py
 ```
