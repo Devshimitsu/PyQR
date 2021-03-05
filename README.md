@@ -34,9 +34,9 @@ $ python3 PyQR.py
 
 - Just, Download this repository -
 
-Double click on requirement.bat
+- Double click on requirement.bat
 
-open cmd and type
+- open cmd and type
 ```
 python PyQR.py
 ```
