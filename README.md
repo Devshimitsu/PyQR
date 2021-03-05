@@ -24,7 +24,7 @@ $ git clone https://github.com/Devshimitsu/PyQR.git
 - Change to cloned directory and run `PyQR.py` -
 ```
 $ cd PyQR
-$ ./requirement.bat
+$ ./requirement.bat OR Download libraries Manually By Typing " pip install pyqrcode && pip install pypng "
 $ python PyQR.py
 ```
 
